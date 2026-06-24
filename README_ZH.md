@@ -22,6 +22,6 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ### 方式一（推荐）
 
-[![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/cn/app/sidecalendar/id6751482006)
+[![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/cn/app/id6751482006?mt=12)
 
 
