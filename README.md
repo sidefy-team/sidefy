@@ -8,13 +8,12 @@
 
 **Sidefy** is a macOS menu bar app that unifies events and information from various sources (Calendar, Reminders, RSS, GitHub, etc.) into a dynamic screen edge information stream.
 
-> [!WARNING]  
-> No longer providing GitHub Releases. Please download the latest version from the App Store.
-
 ## Video
+
 https://github.com/user-attachments/assets/51723d9a-b808-4ad5-b3e1-a73eb5ae34cc
 
 ## Minimum Requirements
+
 macOS 14.0 (Sonoma) or later.
 
 ## Installation
@@ -22,3 +21,7 @@ macOS 14.0 (Sonoma) or later.
 ### Option 1 (Recommended)
 
 [![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/app/id6751482006?mt=12)
+
+### Option 2 (Trial)
+
+[Sidefy](https://github.com/sidefy-team/sidefy-trial) — free, feature-limited edition for macOS.
