@@ -1,6 +1,6 @@
 # Sidefy
 
-[(Pre-)Release Notes](https://sidefyapp.com/blog/)
+[Release Notes](https://sidefyapp.com/blog/)
 
 ---
 
