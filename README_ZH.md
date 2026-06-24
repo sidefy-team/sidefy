@@ -1,6 +1,6 @@
 # Sidefy
 
-[（预）更新日志](https://sidefyapp.com/blog/)
+[更新日志](https://sidefyapp.com/blog/)
 
 ---
 
