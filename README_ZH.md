@@ -6,13 +6,14 @@
 
 [中文](https://github.com/sha2kyou/SideCalendar/blob/main/README_ZH.md) | [English](https://github.com/sha2kyou/SideCalendar/blob/main/README.md)
 
-**Sidefy**是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。
+**Sidefy** 是一款 macOS 菜单栏应用程序，将来自各种来源（日历、提醒事项、RSS、GitHub 等）的事件和信息统一到一个动态屏幕边缘信息流中。
 
 ## 预览视频
 
 https://github.com/user-attachments/assets/51723d9a-b808-4ad5-b3e1-a73eb5ae34cc
 
 ## 最低运行需求
+
 macOS 14.0 (Sonoma) 或更高版本。
 
 ## 安装方式
@@ -23,4 +24,4 @@ macOS 14.0 (Sonoma) 或更高版本。
 
 ### 方式二（试用版）
 
-[试用版](https://github.com/sidefy-team/sidefy-trial)
+[Sidefy](https://github.com/sidefy-team/sidefy-trial) — 免费试用版，部分功能受限。
