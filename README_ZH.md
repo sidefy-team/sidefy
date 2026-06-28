@@ -10,7 +10,7 @@
 
 ## 预览视频
 
-https://github.com/user-attachments/assets/51723d9a-b808-4ad5-b3e1-a73eb5ae34cc
+https://github.com/user-attachments/assets/2678f9c7-f6d9-46bc-a7bf-6a18ae06054e
 
 ## 最低运行需求
 
