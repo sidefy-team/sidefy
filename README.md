@@ -20,7 +20,7 @@ macOS 14.0 (Sonoma) or later.
 
 ### Option 1 (Recommended)
 
-[![download](https://oss.tr1ck.cn/image/20250826/6VuezL.png)](https://apps.apple.com/app/id6751482006?mt=12)
+[download](https://apps.apple.com/app/id6751482006?mt=12)
 
 ### Option 2 (Trial)
 
